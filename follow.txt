@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <!-- this is where i put info i dont want hte user to see -->
+
+    </head>
+    <body>
+       <!-- anything in body will show in the browser window -->
+
+    </body>
+</html>

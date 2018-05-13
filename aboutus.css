@@ -1,0 +1,112 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 800px;
+     height: 100%;
+  }
+
+  header {
+      background-color: #2320FF;
+      padding: 35px;
+      display: block;
+      font-size: 35px;
+      text-align: center;
+      border: 10px solid #000000;
+      
+      
+  }
+      nav {
+        background-color: #40444c;
+        height: 30px;
+        text-align: center;
+       }
+       
+       li {
+        font-family: sans-serif;
+        font-size: 25px;
+        display: inline-block;
+        height: 40px;
+        width: 125px;
+       }
+       
+       a {
+        text-decoration: none;
+        color: white;
+       }
+       
+       li:hover {
+        background-color: black;
+        height: 30px;
+       }
+ 
+.quote{
+    display: inline-block;
+       width: 50%;
+       font-size: 35px;
+}
+
+.img{
+    display: inline-block;
+}
+
+.title{
+    font-size: 50px;
+    color: red;
+    display: block;
+       width: 100%;
+}
+
+  #patricksection {
+      width: 100%;
+      display: inline-block;
+      float: left;
+      background: purple;
+
+  }
+   #patricktitle {
+       display: block;
+       width: 100%;
+   }
+   #patrickquote {
+       display: inline-block;
+       width: 50%;
+       font-size: 35px;
+   }
+   #patrickjpg {
+       display: inline-block;
+   }
+    
+#andysection {
+    width: 100%;
+    display: inline-block;
+    float: left;
+    background: pink;
+}
+#dereksection {
+    width: 100%;
+    display: block;
+    float: left;
+    background: gray;
+}
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
